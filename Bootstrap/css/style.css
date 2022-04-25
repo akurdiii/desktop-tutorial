@@ -1,7 +1,15 @@
 
+.opacity-new{
 
+    opacity: 0.50;
+    z-index: 1;
+}
 .bg-color1
 {
 
-    background-color: #263D42;
+    background-color: #d62828;
+}
+
+.opacity-new:hover{
+    opacity: 1 ;
 }
