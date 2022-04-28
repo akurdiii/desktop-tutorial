@@ -8,10 +8,30 @@ L1
 
 XAMPP CHANGE PASSWORD :
 
-mysqladmin -u root password
+1- run apache
+2- run mysql
+3- open shell
+enter
 
+mysqladmin -u root password 
 
 \phpMyAdmin\config.inc.php
+
+edit line 21:
+$cfg['Servers'][$i]['password'] = 'root';
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 task manager killer:
