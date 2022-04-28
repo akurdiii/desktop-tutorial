@@ -9,9 +9,9 @@ XAMPP CHANGE PASSWORD :
 ============================================
 
 
-1- run apache
-2- run mysql
-3- open shell
+1. run apache
+2. run mysql
+3. open shell
 
 mysqladmin -u root password 
 
