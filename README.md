@@ -21,17 +21,21 @@ edit line 21:
 $cfg['Servers'][$i]['password'] = 'root';
 
 
-===========================================
+
+
+
+
+Wordpress download Last version :
+=======================================
+
+https://wordpress.org/latest.zip
 
 
 
 
 
-
-
-
-task manager killer:
-https://download.sysinternals.com/files/ProcessExplorer.zip
+Color + icons :
+====================
 
 
 color code :
@@ -39,3 +43,12 @@ https://coolors.co/
 
 flat icon :
 https://www.flaticon.com/
+
+
+
+Other:
+===============================
+
+
+task manager killer:
+https://download.sysinternals.com/files/ProcessExplorer.zip
