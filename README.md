@@ -4,8 +4,10 @@
 
 
 
-============================================
+
 XAMPP CHANGE PASSWORD :
+============================================
+
 
 1- run apache
 2- run mysql
@@ -17,6 +19,8 @@ mysqladmin -u root password
 
 edit line 21:
 $cfg['Servers'][$i]['password'] = 'root';
+
+
 ===========================================
 
 
