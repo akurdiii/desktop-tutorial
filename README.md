@@ -14,7 +14,8 @@ mysqladmin -u root password
 \phpMyAdmin\config.inc.php
 
 
-
+task manager killer:
+https://download.sysinternals.com/files/ProcessExplorer.zip
 
 
 
