@@ -1,17 +1,15 @@
 # desktop-tutorial
-Bootstrap Lessons
-
-L1
 
 
 
 
+
+============================================
 XAMPP CHANGE PASSWORD :
 
 1- run apache
 2- run mysql
 3- open shell
-enter
 
 mysqladmin -u root password 
 
@@ -19,13 +17,7 @@ mysqladmin -u root password
 
 edit line 21:
 $cfg['Servers'][$i]['password'] = 'root';
-
-
-
-
-
-
-
+===========================================
 
 
 
@@ -36,8 +28,6 @@ $cfg['Servers'][$i]['password'] = 'root';
 
 task manager killer:
 https://download.sysinternals.com/files/ProcessExplorer.zip
-
-
 
 
 color code :
