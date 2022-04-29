@@ -6,7 +6,9 @@
 . http://127.0.0.1
 . http://localhost
 
+# wordpress admin
 
+http://127.0.0.1/wp-admin/
 
 XAMPP CHANGE PASSWORD :
 ============================================
