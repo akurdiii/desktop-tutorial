@@ -1,5 +1,5 @@
 ## Welcome to 
-#### ZERO TO HERO DEVELOPER REPO.
+### ZERO TO HERO DEVELOPER REPO.
 _______
 
 # internal servers:
@@ -69,5 +69,5 @@ _______
 
 ### Other:
 
-task manager killer:
+Tasks killer:
 https://download.sysinternals.com/files/ProcessExplorer.zip
