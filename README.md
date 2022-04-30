@@ -28,6 +28,10 @@ $cfg['Servers'][$i]['password'] = 'root';
 
 
 
+# Download Tools :
+
+0. https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+1. https://www.apachefriends.org/xampp-files/7.4.29/xampp-windows-x64-7.4.29-0-VC15-installer.exe
 
 
 Wordpress download Last version :
