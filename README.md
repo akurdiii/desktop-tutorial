@@ -3,8 +3,8 @@
 
 ## internal servers:
 
--. http://127.0.0.1
--. http://localhost
+- http://127.0.0.1
+- http://localhost
 
 ## wordpress admin
 
