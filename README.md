@@ -35,10 +35,8 @@ _______
 
 mysqladmin -u root password 
 
-\phpMyAdmin\config.inc.php
-
-edit line 21:
-$cfg['Servers'][$i]['password'] = 'root';
+- \phpMyAdmin\config.inc.php -- replace line 21: 
+- "$cfg['Servers'][$i]['password'] = 'root';"
 
 
 _______
