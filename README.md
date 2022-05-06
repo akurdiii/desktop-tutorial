@@ -45,7 +45,9 @@ _______
 https://wordpress.org/latest.zip
 
 
+### wordpress plugins store
 
+https://wordpress.org/plugins/
 _______
 
 ### Color + icons :
