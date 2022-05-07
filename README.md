@@ -50,7 +50,7 @@ https://wordpress.org/latest.zip
 https://wordpress.org/plugins/
 _______
 
-### Color + icons :
+##### Color + icons :
 
 color code :
 https://coolors.co/
@@ -61,13 +61,13 @@ https://www.flaticon.com/
 
 _______
 
-### Download Tools :
+##### Download Tools :
 
 0. https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 1. https://www.apachefriends.org/xampp-files/7.4.29/xampp-windows-x64-7.4.29-0-VC15-installer.exe
 _______
 
-### Other:
+##### Other:
 
 Tasks killer:
 https://download.sysinternals.com/files/ProcessExplorer.zip
